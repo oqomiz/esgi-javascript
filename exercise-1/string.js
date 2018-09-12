@@ -84,4 +84,3 @@ function vig(string,key){
 	}
 	return finalString;
 }
-
